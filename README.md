@@ -1,5 +1,3 @@
-# React/Redux/Router Starter Project
+# react-auth-app
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
-
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+> Blueprint for creating a React application with authentication features, such as registrations, signing in, signing out, and checking if a user is logged in via http only cookies provided by a Rails API app.
